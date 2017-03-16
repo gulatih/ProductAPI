@@ -1,0 +1,1 @@
+update target_keyspace.products set price = ? , currency_code = ? where id = ?

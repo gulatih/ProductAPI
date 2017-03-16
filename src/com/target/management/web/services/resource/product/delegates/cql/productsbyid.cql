@@ -1,0 +1,1 @@
+select id,name,price,currency_code from target_keyspace.products where id = ?

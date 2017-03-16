@@ -1,0 +1,1 @@
+select price, currency_code from target_keyspace.products where id = ?

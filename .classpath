@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/target/management/web/services/resource/ProtectedResource.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar" sourcepath="M2_REPO/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/asm/asm/3.3.1/asm-3.3.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-bundle/1.19/jersey-bundle-1.19.jar" sourcepath="M2_REPO/com/sun/jersey/jersey-bundle/1.19/jersey-bundle-1.19-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/com/sun/jersey/jersey-bundle/1.19/jersey-bundle-1.19-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/org/json/json/20160810/json-20160810.jar" sourcepath="M2_REPO/org/json/json/20160810/json-20160810-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/org/json/json/20160810/json-20160810-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-server/1.19/jersey-server-1.19.jar" sourcepath="M2_REPO/com/sun/jersey/jersey-server/1.19/jersey-server-1.19-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/com/sun/jersey/jersey-server/1.19/jersey-server-1.19-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-core/1.19/jersey-core-1.19.jar" sourcepath="M2_REPO/com/sun/jersey/jersey-core/1.19/jersey-core-1.19-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/com/sun/jersey/jersey-core/1.19/jersey-core-1.19-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/jcl-over-slf4j/1.6.6/jcl-over-slf4j-1.6.6.jar" sourcepath="M2_REPO/org/slf4j/jcl-over-slf4j/1.6.6/jcl-over-slf4j-1.6.6-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/org/slf4j/jcl-over-slf4j/1.6.6/jcl-over-slf4j-1.6.6-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/jul-to-slf4j/1.6.6/jul-to-slf4j-1.6.6.jar" sourcepath="M2_REPO/org/slf4j/jul-to-slf4j/1.6.6/jul-to-slf4j-1.6.6-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/org/slf4j/jul-to-slf4j/1.6.6/jul-to-slf4j-1.6.6-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-classic/1.0.7/logback-classic-1.0.7.jar" sourcepath="M2_REPO/ch/qos/logback/logback-classic/1.0.7/logback-classic-1.0.7-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/ch/qos/logback/logback-classic/1.0.7/logback-classic-1.0.7-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/ch/qos/logback/logback-core/1.0.7/logback-core-1.0.7.jar" sourcepath="M2_REPO/ch/qos/logback/logback-core/1.0.7/logback-core-1.0.7-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/ch/qos/logback/logback-core/1.0.7/logback-core-1.0.7-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/com/datastax/cassandra/cassandra-driver-core/2.0.1/cassandra-driver-core-2.0.1.jar" sourcepath="M2_REPO/com/datastax/cassandra/cassandra-driver-core/2.0.1/cassandra-driver-core-2.0.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/com/datastax/cassandra/cassandra-driver-core/2.0.1/cassandra-driver-core-2.0.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/io/netty/netty/3.9.0.Final/netty-3.9.0.Final.jar" sourcepath="M2_REPO/io/netty/netty/3.9.0.Final/netty-3.9.0.Final-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/io/netty/netty/3.9.0.Final/netty-3.9.0.Final-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/com/google/guava/guava/16.0.1/guava-16.0.1.jar" sourcepath="M2_REPO/com/google/guava/guava/16.0.1/guava-16.0.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/com/google/guava/guava/16.0.1/guava-16.0.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/com/codahale/metrics/metrics-core/3.0.2/metrics-core-3.0.2.jar" sourcepath="M2_REPO/com/codahale/metrics/metrics-core/3.0.2/metrics-core-3.0.2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/com/codahale/metrics/metrics-core/3.0.2/metrics-core-3.0.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/com/qmino/miredot-annotations/1.2/miredot-annotations-1.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/cerner/cloud/idm/system/oauth/cloud-netoauth-client-exts/2.3/cloud-netoauth-client-exts-2.3.jar" sourcepath="M2_REPO/com/cerner/cloud/idm/system/oauth/cloud-netoauth-client-exts/2.3/cloud-netoauth-client-exts-2.3-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/com/cerner/cloud/idm/system/oauth/cloud-netoauth-client-exts/2.3/cloud-netoauth-client-exts-2.3-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/com/cerner/cloud/idm/system/oauth/cloud-oauth-exts/2.3/cloud-oauth-exts-2.3.jar" sourcepath="M2_REPO/com/cerner/cloud/idm/system/oauth/cloud-oauth-exts/2.3/cloud-oauth-exts-2.3-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/com/cerner/cloud/idm/system/oauth/cloud-oauth-exts/2.3/cloud-oauth-exts-2.3-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" sourcepath="M2_REPO/commons-codec/commons-codec/1.4/commons-codec-1.4-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/commons-codec/commons-codec/1.4/commons-codec-1.4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/com/cerner/cloud/idm/system/oauth/cloud-netoauth-exts/2.3/cloud-netoauth-exts-2.3.jar" sourcepath="M2_REPO/com/cerner/cloud/idm/system/oauth/cloud-netoauth-exts/2.3/cloud-netoauth-exts-2.3-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/com/cerner/cloud/idm/system/oauth/cloud-netoauth-exts/2.3/cloud-netoauth-exts-2.3-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/net/oauth/core/oauth/20090825/oauth-20090825.jar" sourcepath="M2_REPO/net/oauth/core/oauth/20090825/oauth-20090825-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/net/oauth/core/oauth/20090825/oauth-20090825-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/net/oauth/core/oauth-provider/20090531/oauth-provider-20090531.jar" sourcepath="M2_REPO/net/oauth/core/oauth-provider/20090531/oauth-provider-20090531-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/net/oauth/core/oauth-provider/20090531/oauth-provider-20090531-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-core-asl/1.9.9/jackson-core-asl-1.9.9.jar" sourcepath="M2_REPO/org/codehaus/jackson/jackson-core-asl/1.9.9/jackson-core-asl-1.9.9-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jackson/jackson-mapper-asl/1.9.9/jackson-mapper-asl-1.9.9.jar" sourcepath="M2_REPO/org/codehaus/jackson/jackson-mapper-asl/1.9.9/jackson-mapper-asl-1.9.9-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/cerner/cloud/idm/system/oauth/exts/cloud-oauth-jersey-client/1.0.2/cloud-oauth-jersey-client-1.0.2.jar" sourcepath="M2_REPO/com/cerner/cloud/idm/system/oauth/exts/cloud-oauth-jersey-client/1.0.2/cloud-oauth-jersey-client-1.0.2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/com/cerner/cloud/idm/system/oauth/exts/cloud-oauth-jersey-client/1.0.2/cloud-oauth-jersey-client-1.0.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/jersey-client/1.11/jersey-client-1.11.jar" sourcepath="M2_REPO/com/sun/jersey/jersey-client/1.11/jersey-client-1.11-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/com/sun/jersey/jersey-client/1.11/jersey-client-1.11-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/contribs/jersey-oauth/oauth-client/1.11/oauth-client-1.11.jar" sourcepath="M2_REPO/com/sun/jersey/contribs/jersey-oauth/oauth-client/1.11/oauth-client-1.11-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/com/sun/jersey/contribs/jersey-oauth/oauth-client/1.11/oauth-client-1.11-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/com/sun/jersey/contribs/jersey-oauth/oauth-signature/1.11/oauth-signature-1.11.jar" sourcepath="M2_REPO/com/sun/jersey/contribs/jersey-oauth/oauth-signature/1.11/oauth-signature-1.11-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/hh026169/.m2/repository/com/sun/jersey/contribs/jersey-oauth/oauth-signature/1.11/oauth-signature-1.11-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

@@ -1,0 +1,14 @@
+C:\Users\hh026169\workspace_rest_api\target-web-services\src\com\target\management\web\services\data\CassandraDelegate.java
+C:\Users\hh026169\workspace_rest_api\target-web-services\src\com\target\management\web\services\utils\CQLUtils.java
+C:\Users\hh026169\workspace_rest_api\target-web-services\src\com\target\management\web\services\data\CassandraDelegateExecutor.java
+C:\Users\hh026169\workspace_rest_api\target-web-services\src\com\target\management\web\services\resource\product\delegates\PriceDelegate.java
+C:\Users\hh026169\workspace_rest_api\target-web-services\src\com\target\management\web\services\data\CassandraConnectionManager.java
+C:\Users\hh026169\workspace_rest_api\target-web-services\src\com\target\management\web\services\data\JerseyClientPut.java
+C:\Users\hh026169\workspace_rest_api\target-web-services\src\com\target\management\web\services\resource\product\model\PriceData.java
+C:\Users\hh026169\workspace_rest_api\target-web-services\src\com\target\management\web\services\resource\AdminResource.java
+C:\Users\hh026169\workspace_rest_api\target-web-services\src\com\target\management\web\services\resource\product\ProductResource.java
+C:\Users\hh026169\workspace_rest_api\target-web-services\src\com\target\management\web\services\resource\product\delegates\AllProductDelegate.java
+C:\Users\hh026169\workspace_rest_api\target-web-services\src\com\target\management\web\services\resource\product\model\ProductData.java
+C:\Users\hh026169\workspace_rest_api\target-web-services\src\com\target\management\web\services\resource\product\delegates\ProductDelegate.java
+C:\Users\hh026169\workspace_rest_api\target-web-services\src\com\target\management\web\services\resource\product\delegates\UpdatePriceDelegate.java
+C:\Users\hh026169\workspace_rest_api\target-web-services\src\com\target\management\web\services\data\RestClient.java

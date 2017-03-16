@@ -1,0 +1,16 @@
+com\target\management\web\services\resource\product\delegates\ProductDelegate.class
+com\target\management\web\services\resource\AdminResource.class
+com\target\management\web\services\resource\product\delegates\UpdatePriceDelegate.class
+com\target\management\web\services\resource\product\delegates\PriceDelegate.class
+com\target\management\web\services\data\JerseyClientPut.class
+com\target\management\web\services\resource\product\model\ProductData.class
+com\target\management\web\services\data\CassandraDelegateExecutor.class
+com\target\management\web\services\data\CassandraDelegateExecutor$PreparedStatementCache.class
+com\target\management\web\services\resource\product\model\PriceData.class
+com\target\management\web\services\data\CassandraConnectionManager.class
+com\target\management\web\services\data\CassandraDelegate.class
+com\target\management\web\services\resource\product\ProductResource.class
+com\target\management\web\services\utils\CQLUtils.class
+com\target\management\web\services\data\CassandraDelegateExecutor$1.class
+com\target\management\web\services\resource\product\delegates\AllProductDelegate.class
+com\target\management\web\services\data\RestClient.class
